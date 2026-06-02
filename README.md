@@ -1,4 +1,4 @@
-<img src = "githubanner.png"/> 
+<img src = "banner.png"/> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
