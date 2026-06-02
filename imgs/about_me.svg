@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 50" width="300" height="50">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8E85CE" />
+      <stop offset="100%" stop-color="#312D46" />
+    </linearGradient>
+  </defs>
+  <!-- Icon: User / Profile -->
+  <g transform="translate(65, 10)">
+    <circle cx="15" cy="12" r="6" fill="url(#grad)" />
+    <path d="M3 26c0-5 4-8 12-8s12 3 12 8" fill="none" stroke="url(#grad)" stroke-width="3" stroke-linecap="round" />
+  </g>
+  <!-- Text: About Me -->
+  <text x="110" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="bold" font-style="italic" fill="url(#grad)">About Me</text>
+</svg>

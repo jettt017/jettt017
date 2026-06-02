@@ -18,7 +18,7 @@
 
 <br>
 
-<h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<p align="center"><img src="imgs/about_me.svg" height="45" /></p>
 
 <img src="https://i.giphy.com/media/ctxDrNfslvs4YC00eE/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
@@ -39,7 +39,7 @@
 
 <br/>
 <br/>
-<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+<p align="center"><img src="imgs/technologies.svg" height="45" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-6B5BC4?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -61,7 +61,7 @@
 
 <br/>
 
-<h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+<p align="center"><img src="imgs/statistics.svg" height="45" /></p>
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=312D46&color=ffffff&line=6B5BC4&point=a1c4fd&area=true&hide_border=true" width="100%"/>
 

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 50" width="320" height="50">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8E85CE" />
+      <stop offset="100%" stop-color="#312D46" />
+    </linearGradient>
+  </defs>
+  <!-- Icon: Code Bracket </> -->
+  <g transform="translate(60, 12)">
+    <path d="M8 5L2 12L8 19" fill="none" stroke="url(#grad)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 5L24 12L18 19" fill="none" stroke="url(#grad)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="15" y1="3" x2="11" y2="21" stroke="url(#grad)" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <!-- Text: Technologies -->
+  <text x="100" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="bold" font-style="italic" fill="url(#grad)">Technologies</text>
+</svg>

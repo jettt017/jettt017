@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 50" width="300" height="50">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8E85CE" />
+      <stop offset="100%" stop-color="#312D46" />
+    </linearGradient>
+  </defs>
+  <!-- Icon: Analytics / Chart -->
+  <g transform="translate(68, 12)">
+    <rect x="2" y="12" width="5" height="10" rx="1" fill="url(#grad)" />
+    <rect x="10" y="6" width="5" height="16" rx="1" fill="url(#grad)" />
+    <rect x="18" y="0" width="5" height="22" rx="1" fill="url(#grad)" />
+  </g>
+  <!-- Text: Statistics -->
+  <text x="105" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="bold" font-style="italic" fill="url(#grad)">Statistics</text>
+</svg>
