@@ -16,7 +16,9 @@
 </p>
 
 
-<br>
+<br/>
+<hr/>
+<br/>
 
 <p align="center"><img src="imgs/about_me.svg" height="45" /></p>
 
@@ -38,6 +40,7 @@
 </p>
 
 <br/>
+<hr/>
 <br/>
 <p align="center"><img src="imgs/technologies.svg" height="45" /></p>
 
@@ -59,6 +62,8 @@
   <img src="https://img.shields.io/badge/MySQL-16151B?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+<br/>
+<hr/>
 <br/>
 
 <p align="center"><img src="imgs/statistics.svg" height="45" /></p>
