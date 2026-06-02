@@ -67,10 +67,14 @@
 <br/>
 
 <p align="center"><img src="imgs/statistics.svg" height="45" /></p>
-<div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=312D46&color=ffffff&line=6B5BC4&point=a1c4fd&area=true&hide_border=true" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jettt017&show_icons=true&bg_color=312D46&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jettt017&background=312D46&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="180" />
+</p>
+<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jettt017&bg_color=312D46&color=ffffff&line=6B5BC4&point=a1c4fd&area=true&hide_border=true" width="100%"/>
+</p>
 
 
 
