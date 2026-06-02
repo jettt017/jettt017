@@ -20,11 +20,11 @@
 
 <h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhueG9iOWJmNWVncjhheG5iYWZiNjd5bWhzaGYyMm8zZWdycWR0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ctxDrNfslvs4YC00eE/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  Hello There! <em><b> I'm Gani Abi Saputra Van Sigu </b></em>, a Informatic student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
 </p>
 
 
