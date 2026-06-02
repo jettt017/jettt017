@@ -18,9 +18,9 @@
 
 <br>
 
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhueG9iOWJmNWVncjhheG5iYWZiNjd5bWhzaGYyMm8zZWdycWR0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ctxDrNfslvs4YC00eE/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://i.giphy.com/media/ctxDrNfslvs4YC00eE/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
@@ -31,15 +31,15 @@
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025 - 2026) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
+   <img src="imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
+   <img src="imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
+   <img src="imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025 - 2026) </b></em><br/>
+   <img src="imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
 </p>
 
 <br/>
 <br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -61,7 +61,7 @@
 
 <br/>
 
-<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+<h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
