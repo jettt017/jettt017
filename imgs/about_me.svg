@@ -1,15 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 50" width="300" height="50">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6B5BC4" />
-      <stop offset="100%" stop-color="#312D46" />
-    </linearGradient>
-  </defs>
   <!-- Cloud Icon with inner user shape -->
   <g transform="translate(65, 9)">
-    <path d="M 16 6 C 11.5 6 8.2 9.5 8.2 14 C 5 14 3.5 16.5 3.5 19.5 C 3.5 22.5 6 25 9 25 L 23 25 C 26.5 25 28.5 22.5 28.5 19.5 C 28.5 16.5 26.5 14.5 24 14.2 C 24 9.5 20.5 6 16 6 Z" fill="url(#grad)" />
+    <path d="M 16 6 C 11.5 6 8.2 9.5 8.2 14 C 5 14 3.5 16.5 3.5 19.5 C 3.5 22.5 6 25 9 25 L 23 25 C 26.5 25 28.5 22.5 28.5 19.5 C 28.5 16.5 26.5 14.5 24 14.2 C 24 9.5 20.5 6 16 6 Z" fill="#312D46" />
     <circle cx="16" cy="13" r="3" fill="#ffffff" />
     <path d="M9.5 22 C 9.5 18.5 12.5 17.5 16 17.5 C 19.5 17.5 22.5 18.5 22.5 22" fill="#ffffff" />
   </g>
-  <text x="110" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="bold" font-style="italic" fill="url(#grad)">About Me</text>
+  <text x="110" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="bold" font-style="italic" fill="#312D46">About Me</text>
 </svg>
