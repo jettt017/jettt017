@@ -119,6 +119,8 @@
 </p>
 
 <br/>
+<hr/>
+<br/>
 
 <p align="center">
   <img src="footer.png" width="100%" />
