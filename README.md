@@ -46,7 +46,7 @@
 <table align="center" border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td align="center" valign="middle"><img src="imgs/img3.png" width="18"/></td>
-    <td><em>Studying at the <b>National University of Costa Rica (UNA)</b></em></td>
+    <td><em>Studying at the <b>Universitas Pembangunan Nasional "Veteran" East Java (UPNVJT)</b></em></td>
     <td align="center" valign="middle"><img src="imgs/img4.png" width="18"/></td>
     <td><em>Private tutor in <b>C++ at the University</b></em></td>
   </tr>
@@ -117,3 +117,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jettt017&bg_color=312D46&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
+
+<br/>
+
+<p align="center">
+  <img src="footer.png" width="100%" />
+</p>
+
