@@ -21,9 +21,7 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <img src="imgs/about_me.svg" height="45" />
-</p>
+<h2 align="center"><code>&lt;About Me /&gt;</code></h2>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
@@ -62,9 +60,7 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <img src="imgs/technologies.svg" height="45" />
-</p>
+<h2 align="center"><code>&lt;Technologies /&gt;</code></h2>
 
 <table align="center" border="0" cellpadding="6" cellspacing="0">
   <tr>
@@ -103,9 +99,7 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <img src="imgs/statistics.svg" height="45" />
-</p>
+<h2 align="center"><code>&lt;Statistics /&gt;</code></h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jettt017&show_icons=true&bg_color=312D46&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true" height="180" />
