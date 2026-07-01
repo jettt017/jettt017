@@ -113,6 +113,12 @@
 </p>
 
 <br/>
+
+<p align="center">
+  <img src="https://github.com/jettt017/jettt017/raw/output/dist/github-snake.svg" width="100%" alt="Snake Animation" />
+</p>
+
+<br/>
 <hr/>
 <br/>
 
