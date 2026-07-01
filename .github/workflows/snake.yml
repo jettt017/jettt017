@@ -27,33 +27,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
           force: true
-          directory: distname: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: jettt017
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake.gif
-      
-      - name: Push changes to output branch
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
           directory: dist
